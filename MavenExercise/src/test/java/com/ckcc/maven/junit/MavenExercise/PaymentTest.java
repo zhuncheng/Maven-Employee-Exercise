@@ -30,6 +30,7 @@ public class PaymentTest {
 		assertEquals(1000, comEmp.getPaymentAmout(), 0.0);
 		
 	}
+	
 	@Test
 	public void testGetPaymentAmoutSalEmp() {
 		salariedEmp = new SalariedEmployee("aaa", "Chan", "112233", 50);
