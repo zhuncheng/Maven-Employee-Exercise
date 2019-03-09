@@ -211,7 +211,7 @@ public class Main {
 				break;
 			case "5":
 				System.out.println("Invoice\n");
-		
+				System.out.println("Test");
 				for (Invoice invoice : invoices) {
 					System.out.println(invoice.toString());
 				}
