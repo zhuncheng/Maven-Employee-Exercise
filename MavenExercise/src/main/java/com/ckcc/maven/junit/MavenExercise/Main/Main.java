@@ -67,6 +67,7 @@ public class Main {
 		System.out.println("    3. Salaried Employee");
 		System.out.println("    4. Base plus Commission Employee");
 		System.out.println("    5. Invoice Employee");
+		System.out.println("    Test.");
 		System.out.println("    6. Go back to Main Menu <-");
 		System.out.println("\n    Enter your choice: ");
 		ch = input.nextLine();
